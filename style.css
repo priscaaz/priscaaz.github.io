@@ -268,7 +268,8 @@ color: #FFFFFF;
 
 .dream{
 	position:relative;
-	width: 690px;
+	width: 750px;
+    height: 850px;
 	right:130px;
 }
 
@@ -344,6 +345,7 @@ color: #000000
 	position:relative;
 	left: 750px;
 	bottom:920px;
+    height: 920px;
 
 }
 
